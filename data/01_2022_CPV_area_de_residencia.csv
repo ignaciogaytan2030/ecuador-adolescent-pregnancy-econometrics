@@ -1,0 +1,739 @@
+﻿provincia ;canton;area_de_residencia;numero_total_de_personas
+Total Nacional;Nacional;Nacional;16.938.986
+Total Nacional;Nacional;Urbana;10.687.151
+Total Nacional;Nacional;Rural;6.251.835
+Azuay;Total Azuay;Total Azuay;801.609
+Azuay;Total Azuay;Urbana;420.141
+Azuay;Total Azuay;Rural;381.468
+Azuay;Cuenca;Total Cuenca;596.101
+Azuay;Cuenca;Urbana;361.524
+Azuay;Cuenca;Rural;234.577
+Azuay;Girón;Total Girón;12.182
+Azuay;Girón;Urbana;4.353
+Azuay;Girón;Rural;7.829
+Azuay;Gualaceo;Total Gualaceo;43.188
+Azuay;Gualaceo;Urbana;13.843
+Azuay;Gualaceo;Rural;29.345
+Azuay;Nabón;Total Nabón;14.776
+Azuay;Nabón;Urbana;1.276
+Azuay;Nabón;Rural;13.500
+Azuay;Paute;Total Paute;26.782
+Azuay;Paute;Urbana;8.766
+Azuay;Paute;Rural;18.016
+Azuay;Pucará;Total Pucará;9.693
+Azuay;Pucará;Urbana;855
+Azuay;Pucará;Rural;8.838
+Azuay;San Fernando;Total San Fernando;3.738
+Azuay;San Fernando;Urbana;1.407
+Azuay;San Fernando;Rural;2.331
+Azuay;Santa Isabel;Total Santa Isabel;20.753
+Azuay;Santa Isabel;Urbana;6.194
+Azuay;Santa Isabel;Rural;14.559
+Azuay;Sígsig;Total Sígsig;24.992
+Azuay;Sígsig;Urbana;4.029
+Azuay;Sígsig;Rural;20.963
+Azuay;Oña;Total Oña;3.422
+Azuay;Oña;Urbana;989
+Azuay;Oña;Rural;2.433
+Azuay;Chordeleg;Total Chordeleg;12.197
+Azuay;Chordeleg;Urbana;4.445
+Azuay;Chordeleg;Rural;7.752
+Azuay;El Pan;Total El Pan;2.776
+Azuay;El Pan;Urbana;503
+Azuay;El Pan;Rural;2.273
+Azuay;Sevilla de Oro;Total Sevilla de Oro;4.613
+Azuay;Sevilla de Oro;Urbana;732
+Azuay;Sevilla de Oro;Rural;3.881
+Azuay;Guachapala;Total Guachapala;3.586
+Azuay;Guachapala;Urbana;1.210
+Azuay;Guachapala;Rural;2.376
+Azuay;Camilo Ponce Enríquez;Total Camilo Ponce Enríquez;22.810
+Azuay;Camilo Ponce Enríquez;Urbana;10.015
+Azuay;Camilo Ponce Enríquez;Rural;12.795
+Bolívar;Total Bolívar;Total Bolívar;199.078
+Bolívar;Total Bolívar;Urbana;64.172
+Bolívar;Total Bolívar;Rural;134.906
+Bolívar;Guaranda;Total Guaranda;98.130
+Bolívar;Guaranda;Urbana;30.755
+Bolívar;Guaranda;Rural;67.375
+Bolívar;Chillanes;Total Chillanes;19.802
+Bolívar;Chillanes;Urbana;3.251
+Bolívar;Chillanes;Rural;16.551
+Bolívar;Chimbo;Total Chimbo;15.524
+Bolívar;Chimbo;Urbana;4.354
+Bolívar;Chimbo;Rural;11.170
+Bolívar;Echeandía;Total Echeandía;14.654
+Bolívar;Echeandía;Urbana;7.138
+Bolívar;Echeandía;Rural;7.516
+Bolívar;San Miguel;Total San Miguel;28.349
+Bolívar;San Miguel;Urbana;8.806
+Bolívar;San Miguel;Rural;19.543
+Bolívar;Caluma;Total Caluma;15.607
+Bolívar;Caluma;Urbana;7.884
+Bolívar;Caluma;Rural;7.723
+Bolívar;Las Naves;Total Las Naves;7.012
+Bolívar;Las Naves;Urbana;1.984
+Bolívar;Las Naves;Rural;5.028
+Cañar;Total Cañar;Total Cañar;227.578
+Cañar;Total Cañar;Urbana;101.098
+Cañar;Total Cañar;Rural;126.480
+Cañar;Azogues;Total Azogues;74.515
+Cañar;Azogues;Urbana;35.763
+Cañar;Azogues;Rural;38.752
+Cañar;Biblián;Total Biblián;18.852
+Cañar;Biblián;Urbana;5.728
+Cañar;Biblián;Rural;13.124
+Cañar;Cañar;Total Cañar;52.150
+Cañar;Cañar;Urbana;13.148
+Cañar;Cañar;Rural;39.002
+Cañar;La Troncal;Total La Troncal;62.103
+Cañar;La Troncal;Urbana;39.600
+Cañar;La Troncal;Rural;22.503
+Cañar;El Tambo;Total El Tambo;9.285
+Cañar;El Tambo;Urbana;5.202
+Cañar;El Tambo;Rural;4.083
+Cañar;Déleg;Total Déleg;6.046
+Cañar;Déleg;Urbana;645
+Cañar;Déleg;Rural;5.401
+Cañar;Suscal;Total Suscal;4.627
+Cañar;Suscal;Urbana;1.012
+Cañar;Suscal;Rural;3.615
+Carchi;Total Carchi;Total Carchi;172.828
+Carchi;Total Carchi;Urbana;87.957
+Carchi;Total Carchi;Rural;84.871
+Carchi;Tulcán;Total Tulcán;92.375
+Carchi;Tulcán;Urbana;56.719
+Carchi;Tulcán;Rural;35.656
+Carchi;Bolívar;Total Bolívar;15.677
+Carchi;Bolívar;Urbana;3.377
+Carchi;Bolívar;Rural;12.300
+Carchi;Espejo;Total Espejo;14.522
+Carchi;Espejo;Urbana;5.181
+Carchi;Espejo;Rural;9.341
+Carchi;Mira;Total Mira;12.727
+Carchi;Mira;Urbana;3.691
+Carchi;Mira;Rural;9.036
+Carchi;Montúfar;Total Montúfar;29.590
+Carchi;Montúfar;Urbana;14.497
+Carchi;Montúfar;Rural;15.093
+Carchi;San Pedro de Huaca;Total San Pedro de Huaca;7.937
+Carchi;San Pedro de Huaca;Urbana;4.492
+Carchi;San Pedro de Huaca;Rural;3.445
+Cotopaxi;Total Cotopaxi;Total Cotopaxi;470.210
+Cotopaxi;Total Cotopaxi;Urbana;156.481
+Cotopaxi;Total Cotopaxi;Rural;313.729
+Cotopaxi;Latacunga;Total Latacunga;217.261
+Cotopaxi;Latacunga;Urbana;77.267
+Cotopaxi;Latacunga;Rural;139.994
+Cotopaxi;La Maná;Total La Maná;53.793
+Cotopaxi;La Maná;Urbana;31.740
+Cotopaxi;La Maná;Rural;22.053
+Cotopaxi;Pangua;Total Pangua;21.867
+Cotopaxi;Pangua;Urbana;1.872
+Cotopaxi;Pangua;Rural;19.995
+Cotopaxi;Pujilí;Total Pujilí;66.980
+Cotopaxi;Pujilí;Urbana;16.152
+Cotopaxi;Pujilí;Rural;50.828
+Cotopaxi;Salcedo;Total Salcedo;67.493
+Cotopaxi;Salcedo;Urbana;16.751
+Cotopaxi;Salcedo;Rural;50.742
+Cotopaxi;Saquisilí;Total Saquisilí;24.356
+Cotopaxi;Saquisilí;Urbana;9.883
+Cotopaxi;Saquisilí;Rural;14.473
+Cotopaxi;Sigchos;Total Sigchos;18.460
+Cotopaxi;Sigchos;Urbana;2.816
+Cotopaxi;Sigchos;Rural;15.644
+Chimborazo;Total Chimborazo;Total Chimborazo;471.933
+Chimborazo;Total Chimborazo;Urbana;224.667
+Chimborazo;Total Chimborazo;Rural;247.266
+Chimborazo;Riobamba;Total Riobamba;260.882
+Chimborazo;Riobamba;Urbana;177.213
+Chimborazo;Riobamba;Rural;83.669
+Chimborazo;Alausí;Total Alausí;37.275
+Chimborazo;Alausí;Urbana;6.071
+Chimborazo;Alausí;Rural;31.204
+Chimborazo;Colta;Total Colta;30.468
+Chimborazo;Colta;Urbana;2.785
+Chimborazo;Colta;Rural;27.683
+Chimborazo;Chambo;Total Chambo;13.431
+Chimborazo;Chambo;Urbana;5.462
+Chimborazo;Chambo;Rural;7.969
+Chimborazo;Chunchi;Total Chunchi;10.635
+Chimborazo;Chunchi;Urbana;3.799
+Chimborazo;Chunchi;Rural;6.836
+Chimborazo;Guamote;Total Guamote;35.769
+Chimborazo;Guamote;Urbana;3.076
+Chimborazo;Guamote;Rural;32.693
+Chimborazo;Guano;Total Guano;48.327
+Chimborazo;Guano;Urbana;9.136
+Chimborazo;Guano;Rural;39.191
+Chimborazo;Pallatanga;Total Pallatanga;11.796
+Chimborazo;Pallatanga;Urbana;4.266
+Chimborazo;Pallatanga;Rural;7.530
+Chimborazo;Penipe;Total Penipe;6.748
+Chimborazo;Penipe;Urbana;1.417
+Chimborazo;Penipe;Rural;5.331
+Chimborazo;Cumandá;Total Cumandá;16.602
+Chimborazo;Cumandá;Urbana;11.442
+Chimborazo;Cumandá;Rural;5.160
+El Oro;Total El Oro;Total El Oro;714.592
+El Oro;Total El Oro;Urbana;561.225
+El Oro;Total El Oro;Rural;153.367
+El Oro;Machala;Total Machala;306.309
+El Oro;Machala;Urbana;288.072
+El Oro;Machala;Rural;18.237
+El Oro;Arenillas;Total Arenillas;32.366
+El Oro;Arenillas;Urbana;21.524
+El Oro;Arenillas;Rural;10.842
+El Oro;Atahualpa;Total Atahualpa;6.112
+El Oro;Atahualpa;Urbana;1.769
+El Oro;Atahualpa;Rural;4.343
+El Oro;Balsas;Total Balsas;7.875
+El Oro;Balsas;Urbana;4.500
+El Oro;Balsas;Rural;3.375
+El Oro;Chilla;Total Chilla;2.251
+El Oro;Chilla;Urbana;910
+El Oro;Chilla;Rural;1.341
+El Oro;El Guabo;Total El Guabo;59.536
+El Oro;El Guabo;Urbana;26.635
+El Oro;El Guabo;Rural;32.901
+El Oro;Huaquillas;Total Huaquillas;56.303
+El Oro;Huaquillas;Urbana;56.021
+El Oro;Huaquillas;Rural;282
+El Oro;Marcabelí;Total Marcabelí;6.870
+El Oro;Marcabelí;Urbana;4.973
+El Oro;Marcabelí;Rural;1.897
+El Oro;Pasaje;Total Pasaje;83.597
+El Oro;Pasaje;Urbana;60.147
+El Oro;Pasaje;Rural;23.450
+El Oro;Piñas;Total Piñas;29.406
+El Oro;Piñas;Urbana;18.482
+El Oro;Piñas;Rural;10.924
+El Oro;Portovelo;Total Portovelo;13.556
+El Oro;Portovelo;Urbana;9.764
+El Oro;Portovelo;Rural;3.792
+El Oro;Santa Rosa;Total Santa Rosa;80.299
+El Oro;Santa Rosa;Urbana;56.842
+El Oro;Santa Rosa;Rural;23.457
+El Oro;Zaruma;Total Zaruma;24.374
+El Oro;Zaruma;Urbana;10.005
+El Oro;Zaruma;Rural;14.369
+El Oro;Las Lajas;Total Las Lajas;5.738
+El Oro;Las Lajas;Urbana;1.581
+El Oro;Las Lajas;Rural;4.157
+Esmeraldas;Total Esmeraldas;Total Esmeraldas;553.900
+Esmeraldas;Total Esmeraldas;Urbana;248.586
+Esmeraldas;Total Esmeraldas;Rural;305.314
+Esmeraldas;Esmeraldas;Total Esmeraldas;211.848
+Esmeraldas;Esmeraldas;Urbana;155.487
+Esmeraldas;Esmeraldas;Rural;56.361
+Esmeraldas;Eloy Alfaro;Total Eloy Alfaro;46.305
+Esmeraldas;Eloy Alfaro;Urbana;4.956
+Esmeraldas;Eloy Alfaro;Rural;41.349
+Esmeraldas;Muisne;Total Muisne;36.426
+Esmeraldas;Muisne;Urbana;5.574
+Esmeraldas;Muisne;Rural;30.852
+Esmeraldas;Quinindé;Total Quinindé;126.841
+Esmeraldas;Quinindé;Urbana;31.120
+Esmeraldas;Quinindé;Rural;95.721
+Esmeraldas;San Lorenzo;Total San Lorenzo;48.391
+Esmeraldas;San Lorenzo;Urbana;28.491
+Esmeraldas;San Lorenzo;Rural;19.900
+Esmeraldas;Atacames;Total Atacames;51.204
+Esmeraldas;Atacames;Urbana;18.948
+Esmeraldas;Atacames;Rural;32.256
+Esmeraldas;Rioverde;Total Rioverde;32.885
+Esmeraldas;Rioverde;Urbana;4.010
+Esmeraldas;Rioverde;Rural;28.875
+Guayas;Total Guayas;Total Guayas;4.391.923
+Guayas;Total Guayas;Urbana;3.744.462
+Guayas;Total Guayas;Rural;647.461
+Guayas;Guayaquil;Total Guayaquil;2.746.403
+Guayas;Guayaquil;Urbana;2.650.288
+Guayas;Guayaquil;Rural;96.115
+Guayas;Alfredo Baquerizo Moreno (Juján);Total Alfredo Baquerizo Moreno (Juján);25.526
+Guayas;Alfredo Baquerizo Moreno (Juján);Urbana;6.035
+Guayas;Alfredo Baquerizo Moreno (Juján);Rural;19.491
+Guayas;Balao;Total Balao;25.655
+Guayas;Balao;Urbana;12.850
+Guayas;Balao;Rural;12.805
+Guayas;Balzar;Total Balzar;57.829
+Guayas;Balzar;Urbana;32.744
+Guayas;Balzar;Rural;25.085
+Guayas;Colimes;Total Colimes;26.251
+Guayas;Colimes;Urbana;7.619
+Guayas;Colimes;Rural;18.632
+Guayas;Daule;Total Daule;222.446
+Guayas;Daule;Urbana;161.498
+Guayas;Daule;Rural;60.948
+Guayas;Durán;Total Durán;303.910
+Guayas;Durán;Urbana;295.211
+Guayas;Durán;Rural;8.699
+Guayas;El Empalme;Total El Empalme;79.767
+Guayas;El Empalme;Urbana;41.778
+Guayas;El Empalme;Rural;37.989
+Guayas;El Triunfo;Total El Triunfo;60.541
+Guayas;El Triunfo;Urbana;41.042
+Guayas;El Triunfo;Rural;19.499
+Guayas;Milagro;Total Milagro;195.943
+Guayas;Milagro;Urbana;159.970
+Guayas;Milagro;Rural;35.973
+Guayas;Naranjal;Total Naranjal;83.691
+Guayas;Naranjal;Urbana;39.323
+Guayas;Naranjal;Rural;44.368
+Guayas;Naranjito;Total Naranjito;44.169
+Guayas;Naranjito;Urbana;34.664
+Guayas;Naranjito;Rural;9.505
+Guayas;Palestina;Total Palestina;18.019
+Guayas;Palestina;Urbana;10.392
+Guayas;Palestina;Rural;7.627
+Guayas;Pedro Carbo;Total Pedro Carbo;52.177
+Guayas;Pedro Carbo;Urbana;24.882
+Guayas;Pedro Carbo;Rural;27.295
+Guayas;Samborondón;Total Samborondón;98.540
+Guayas;Samborondón;Urbana;72.425
+Guayas;Samborondón;Rural;26.115
+Guayas;Santa Lucía;Total Santa Lucía;43.700
+Guayas;Santa Lucía;Urbana;10.924
+Guayas;Santa Lucía;Rural;32.776
+Guayas;Salitre;Total Salitre;61.060
+Guayas;Salitre;Urbana;13.571
+Guayas;Salitre;Rural;47.489
+Guayas;San Jacinto de Yaguachi;Total San Jacinto de Yaguachi;72.699
+Guayas;San Jacinto de Yaguachi;Urbana;22.972
+Guayas;San Jacinto de Yaguachi;Rural;49.727
+Guayas;Playas;Total Playas;58.768
+Guayas;Playas;Urbana;48.156
+Guayas;Playas;Rural;10.612
+Guayas;Simón Bolívar;Total Simón Bolívar;29.427
+Guayas;Simón Bolívar;Urbana;8.696
+Guayas;Simón Bolívar;Rural;20.731
+Guayas;Coronel Marcelino Maridueña;Total Coronel Marcelino Maridueña;13.183
+Guayas;Coronel Marcelino Maridueña;Urbana;7.796
+Guayas;Coronel Marcelino Maridueña;Rural;5.387
+Guayas;Lomas de Sargentillo;Total Lomas de Sargentillo;22.254
+Guayas;Lomas de Sargentillo;Urbana;16.603
+Guayas;Lomas de Sargentillo;Rural;5.651
+Guayas;Nobol;Total Nobol;23.850
+Guayas;Nobol;Urbana;10.010
+Guayas;Nobol;Rural;13.840
+Guayas;General  Antonio Elizalde;Total General  Antonio Elizalde;11.810
+Guayas;General  Antonio Elizalde;Urbana;6.738
+Guayas;General  Antonio Elizalde;Rural;5.072
+Guayas;Isidro Ayora;Total Isidro Ayora;14.305
+Guayas;Isidro Ayora;Urbana;8.275
+Guayas;Isidro Ayora;Rural;6.030
+Imbabura;Total Imbabura;Total Imbabura;469.879
+Imbabura;Total Imbabura;Urbana;245.628
+Imbabura;Total Imbabura;Rural;224.251
+Imbabura;Ibarra;Total Ibarra;217.469
+Imbabura;Ibarra;Urbana;157.941
+Imbabura;Ibarra;Rural;59.528
+Imbabura;Antonio Ante;Total Antonio Ante;53.771
+Imbabura;Antonio Ante;Urbana;25.115
+Imbabura;Antonio Ante;Rural;28.656
+Imbabura;Cotacachi;Total Cotacachi;53.001
+Imbabura;Cotacachi;Urbana;10.526
+Imbabura;Cotacachi;Rural;42.475
+Imbabura;Otavalo;Total Otavalo;114.303
+Imbabura;Otavalo;Urbana;41.718
+Imbabura;Otavalo;Rural;72.585
+Imbabura;Pimampiro;Total Pimampiro;13.366
+Imbabura;Pimampiro;Urbana;5.848
+Imbabura;Pimampiro;Rural;7.518
+Imbabura;San Miguel de Urcuquí;Total San Miguel de Urcuquí;17.969
+Imbabura;San Miguel de Urcuquí;Urbana;4.480
+Imbabura;San Miguel de Urcuquí;Rural;13.489
+Loja;Total Loja;Total Loja;485.421
+Loja;Total Loja;Urbana;293.339
+Loja;Total Loja;Rural;192.082
+Loja;Loja;Total Loja;250.028
+Loja;Loja;Urbana;203.496
+Loja;Loja;Rural;46.532
+Loja;Calvas;Total Calvas;26.042
+Loja;Calvas;Urbana;13.175
+Loja;Calvas;Rural;12.867
+Loja;Catamayo;Total Catamayo;35.240
+Loja;Catamayo;Urbana;27.026
+Loja;Catamayo;Rural;8.214
+Loja;Celica;Total Celica;14.379
+Loja;Celica;Urbana;4.486
+Loja;Celica;Rural;9.893
+Loja;Chaguarpamba;Total Chaguarpamba;6.857
+Loja;Chaguarpamba;Urbana;1.342
+Loja;Chaguarpamba;Rural;5.515
+Loja;Espíndola;Total Espíndola;14.119
+Loja;Espíndola;Urbana;2.073
+Loja;Espíndola;Rural;12.046
+Loja;Gonzanamá;Total Gonzanamá;12.247
+Loja;Gonzanamá;Urbana;1.973
+Loja;Gonzanamá;Rural;10.274
+Loja;Macará;Total Macará;18.215
+Loja;Macará;Urbana;12.454
+Loja;Macará;Rural;5.761
+Loja;Paltas;Total Paltas;22.841
+Loja;Paltas;Urbana;7.831
+Loja;Paltas;Rural;15.010
+Loja;Puyango;Total Puyango;16.257
+Loja;Puyango;Urbana;5.981
+Loja;Puyango;Rural;10.276
+Loja;Saraguro;Total Saraguro;29.111
+Loja;Saraguro;Urbana;4.656
+Loja;Saraguro;Rural;24.455
+Loja;Sozoranga;Total Sozoranga;6.970
+Loja;Sozoranga;Urbana;908
+Loja;Sozoranga;Rural;6.062
+Loja;Zapotillo;Total Zapotillo;14.571
+Loja;Zapotillo;Urbana;3.599
+Loja;Zapotillo;Rural;10.972
+Loja;Pindal;Total Pindal;10.409
+Loja;Pindal;Urbana;2.660
+Loja;Pindal;Rural;7.749
+Loja;Quilanga;Total Quilanga;3.971
+Loja;Quilanga;Urbana;934
+Loja;Quilanga;Rural;3.037
+Loja;Olmedo;Total Olmedo;4.164
+Loja;Olmedo;Urbana;745
+Loja;Olmedo;Rural;3.419
+Los Ríos;Total Los Ríos;Total Los Ríos;898.652
+Los Ríos;Total Los Ríos;Urbana;485.223
+Los Ríos;Total Los Ríos;Rural;413.429
+Los Ríos;Babahoyo;Total Babahoyo;178.509
+Los Ríos;Babahoyo;Urbana;98.251
+Los Ríos;Babahoyo;Rural;80.258
+Los Ríos;Baba;Total Baba;45.296
+Los Ríos;Baba;Urbana;6.746
+Los Ríos;Baba;Rural;38.550
+Los Ríos;Montalvo;Total Montalvo;28.354
+Los Ríos;Montalvo;Urbana;16.248
+Los Ríos;Montalvo;Rural;12.106
+Los Ríos;Puebloviejo;Total Puebloviejo;40.961
+Los Ríos;Puebloviejo;Urbana;9.646
+Los Ríos;Puebloviejo;Rural;31.315
+Los Ríos;Quevedo;Total Quevedo;206.008
+Los Ríos;Quevedo;Urbana;177.792
+Los Ríos;Quevedo;Rural;28.216
+Los Ríos;Urdaneta;Total Urdaneta;33.151
+Los Ríos;Urdaneta;Urbana;7.216
+Los Ríos;Urdaneta;Rural;25.935
+Los Ríos;Ventanas;Total Ventanas;73.211
+Los Ríos;Ventanas;Urbana;41.531
+Los Ríos;Ventanas;Rural;31.680
+Los Ríos;Vinces;Total Vinces;80.909
+Los Ríos;Vinces;Urbana;35.064
+Los Ríos;Vinces;Rural;45.845
+Los Ríos;Palenque;Total Palenque;24.838
+Los Ríos;Palenque;Urbana;7.258
+Los Ríos;Palenque;Rural;17.580
+Los Ríos;Buena Fe;Total Buena Fe;74.410
+Los Ríos;Buena Fe;Urbana;46.779
+Los Ríos;Buena Fe;Rural;27.631
+Los Ríos;Valencia;Total Valencia;51.509
+Los Ríos;Valencia;Urbana;22.996
+Los Ríos;Valencia;Rural;28.513
+Los Ríos;Mocache;Total Mocache;42.026
+Los Ríos;Mocache;Urbana;9.535
+Los Ríos;Mocache;Rural;32.491
+Los Ríos;Quinsaloma;Total Quinsaloma;19.470
+Los Ríos;Quinsaloma;Urbana;6.161
+Los Ríos;Quinsaloma;Rural;13.309
+Manabí;Total Manabí;Total Manabí;1.592.840
+Manabí;Total Manabí;Urbana;924.325
+Manabí;Total Manabí;Rural;668.515
+Manabí;Portoviejo;Total Portoviejo;322.925
+Manabí;Portoviejo;Urbana;244.129
+Manabí;Portoviejo;Rural;78.796
+Manabí;Bolívar;Total Bolívar;41.827
+Manabí;Bolívar;Urbana;20.011
+Manabí;Bolívar;Rural;21.816
+Manabí;Chone;Total Chone;128.166
+Manabí;Chone;Urbana;54.629
+Manabí;Chone;Rural;73.537
+Manabí;El Carmen;Total El Carmen;120.936
+Manabí;El Carmen;Urbana;52.366
+Manabí;El Carmen;Rural;68.570
+Manabí;Flavio Alfaro;Total Flavio Alfaro;26.415
+Manabí;Flavio Alfaro;Urbana;8.312
+Manabí;Flavio Alfaro;Rural;18.103
+Manabí;Jipijapa;Total Jipijapa;78.117
+Manabí;Jipijapa;Urbana;45.382
+Manabí;Jipijapa;Rural;32.735
+Manabí;Junín;Total Junín;22.324
+Manabí;Junín;Urbana;7.332
+Manabí;Junín;Rural;14.992
+Manabí;Manta;Total Manta;271.145
+Manabí;Manta;Urbana;258.697
+Manabí;Manta;Rural;12.448
+Manabí;Montecristi;Total Montecristi;99.937
+Manabí;Montecristi;Urbana;71.066
+Manabí;Montecristi;Rural;28.871
+Manabí;Paján;Total Paján;41.879
+Manabí;Paján;Urbana;7.686
+Manabí;Paján;Rural;34.193
+Manabí;Pichincha;Total Pichincha;30.380
+Manabí;Pichincha;Urbana;4.406
+Manabí;Pichincha;Rural;25.974
+Manabí;Rocafuerte;Total Rocafuerte;42.688
+Manabí;Rocafuerte;Urbana;11.848
+Manabí;Rocafuerte;Rural;30.840
+Manabí;Santa Ana;Total Santa Ana;51.462
+Manabí;Santa Ana;Urbana;11.918
+Manabí;Santa Ana;Rural;39.544
+Manabí;Sucre;Total Sucre;62.841
+Manabí;Sucre;Urbana;22.209
+Manabí;Sucre;Rural;40.632
+Manabí;Tosagua;Total Tosagua;42.853
+Manabí;Tosagua;Urbana;11.317
+Manabí;Tosagua;Rural;31.536
+Manabí;24 de Mayo;Total 24 de Mayo;31.473
+Manabí;24 de Mayo;Urbana;6.607
+Manabí;24 de Mayo;Rural;24.866
+Manabí;Pedernales;Total Pedernales;70.408
+Manabí;Pedernales;Urbana;27.068
+Manabí;Pedernales;Rural;43.340
+Manabí;Olmedo;Total Olmedo;10.090
+Manabí;Olmedo;Urbana;2.684
+Manabí;Olmedo;Rural;7.406
+Manabí;Puerto López;Total Puerto López;25.630
+Manabí;Puerto López;Urbana;12.598
+Manabí;Puerto López;Rural;13.032
+Manabí;Jama;Total Jama;16.588
+Manabí;Jama;Urbana;5.259
+Manabí;Jama;Rural;11.329
+Manabí;Jaramijó;Total Jaramijó;29.759
+Manabí;Jaramijó;Urbana;28.397
+Manabí;Jaramijó;Rural;1.362
+Manabí;San Vicente;Total San Vicente;24.997
+Manabí;San Vicente;Urbana;10.404
+Manabí;San Vicente;Rural;14.593
+Morona Santiago;Total Morona Santiago;Total Morona Santiago;192.508
+Morona Santiago;Total Morona Santiago;Urbana;62.836
+Morona Santiago;Total Morona Santiago;Rural;129.672
+Morona Santiago;Morona;Total Morona;54.935
+Morona Santiago;Morona;Urbana;22.398
+Morona Santiago;Morona;Rural;32.537
+Morona Santiago;Gualaquiza;Total Gualaquiza;21.892
+Morona Santiago;Gualaquiza;Urbana;9.157
+Morona Santiago;Gualaquiza;Rural;12.735
+Morona Santiago;Limón Indanza;Total Limón Indanza;9.602
+Morona Santiago;Limón Indanza;Urbana;3.982
+Morona Santiago;Limón Indanza;Rural;5.620
+Morona Santiago;Palora;Total Palora;11.882
+Morona Santiago;Palora;Urbana;5.748
+Morona Santiago;Palora;Rural;6.134
+Morona Santiago;Santiago;Total Santiago;9.755
+Morona Santiago;Santiago;Urbana;2.349
+Morona Santiago;Santiago;Rural;7.406
+Morona Santiago;Sucúa;Total Sucúa;23.504
+Morona Santiago;Sucúa;Urbana;10.846
+Morona Santiago;Sucúa;Rural;12.658
+Morona Santiago;Huamboya;Total Huamboya;10.830
+Morona Santiago;Huamboya;Urbana;1.312
+Morona Santiago;Huamboya;Rural;9.518
+Morona Santiago;San Juan Bosco;Total San Juan Bosco;4.372
+Morona Santiago;San Juan Bosco;Urbana;1.613
+Morona Santiago;San Juan Bosco;Rural;2.759
+Morona Santiago;Taisha;Total Taisha;26.700
+Morona Santiago;Taisha;Urbana;1.864
+Morona Santiago;Taisha;Rural;24.836
+Morona Santiago;Logroño;Total Logroño;7.484
+Morona Santiago;Logroño;Urbana;1.382
+Morona Santiago;Logroño;Rural;6.102
+Morona Santiago;Pablo Sexto;Total Pablo Sexto;2.267
+Morona Santiago;Pablo Sexto;Urbana;1.031
+Morona Santiago;Pablo Sexto;Rural;1.236
+Morona Santiago;Tiwintza;Total Tiwintza;9.285
+Morona Santiago;Tiwintza;Urbana;1.154
+Morona Santiago;Tiwintza;Rural;8.131
+Napo;Total Napo;Total Napo;131.675
+Napo;Total Napo;Urbana;44.675
+Napo;Total Napo;Rural;87.000
+Napo;Tena;Total Tena;80.816
+Napo;Tena;Urbana;29.724
+Napo;Tena;Rural;51.092
+Napo;Archidona;Total Archidona;30.488
+Napo;Archidona;Urbana;7.353
+Napo;Archidona;Rural;23.135
+Napo;El Chaco;Total El Chaco;9.252
+Napo;El Chaco;Urbana;4.353
+Napo;El Chaco;Rural;4.899
+Napo;Quijos;Total Quijos;6.472
+Napo;Quijos;Urbana;1.972
+Napo;Quijos;Rural;4.500
+Napo;Carlos Julio Arosemena Tola;Total Carlos Julio Arosemena Tola;4.647
+Napo;Carlos Julio Arosemena Tola;Urbana;1.273
+Napo;Carlos Julio Arosemena Tola;Rural;3.374
+Pastaza;Total Pastaza;Total Pastaza;111.915
+Pastaza;Total Pastaza;Urbana;38.386
+Pastaza;Total Pastaza;Rural;73.529
+Pastaza;Pastaza;Total Pastaza;82.754
+Pastaza;Pastaza;Urbana;33.325
+Pastaza;Pastaza;Rural;49.429
+Pastaza;Mera;Total Mera;15.087
+Pastaza;Mera;Urbana;853
+Pastaza;Mera;Rural;14.234
+Pastaza;Santa Clara;Total Santa Clara;4.521
+Pastaza;Santa Clara;Urbana;1.831
+Pastaza;Santa Clara;Rural;2.690
+Pastaza;Arajuno;Total Arajuno;9.553
+Pastaza;Arajuno;Urbana;2.377
+Pastaza;Arajuno;Rural;7.176
+Pichincha;Total Pichincha;Total Pichincha;3.089.473
+Pichincha;Total Pichincha;Urbana;1.958.079
+Pichincha;Total Pichincha;Rural;1.131.394
+Pichincha;Distrito Metropolitano de Quito;Total Distrito Metropolitano de Quito;2.679.722
+Pichincha;Distrito Metropolitano de Quito;Urbana;1.763.275
+Pichincha;Distrito Metropolitano de Quito;Rural;916.447
+Pichincha;Cayambe;Total Cayambe;105.267
+Pichincha;Cayambe;Urbana;44.559
+Pichincha;Cayambe;Rural;60.708
+Pichincha;Mejía;Total Mejía;101.894
+Pichincha;Mejía;Urbana;24.188
+Pichincha;Mejía;Rural;77.706
+Pichincha;Pedro Moncayo;Total Pedro Moncayo;40.483
+Pichincha;Pedro Moncayo;Urbana;13.019
+Pichincha;Pedro Moncayo;Rural;27.464
+Pichincha;Rumiñahui;Total Rumiñahui;107.904
+Pichincha;Rumiñahui;Urbana;96.647
+Pichincha;Rumiñahui;Rural;11.257
+Pichincha;San Miguel de los Bancos;Total San Miguel de los Bancos;13.661
+Pichincha;San Miguel de los Bancos;Urbana;5.396
+Pichincha;San Miguel de los Bancos;Rural;8.265
+Pichincha;Pedro Vicente Maldonado;Total Pedro Vicente Maldonado;15.475
+Pichincha;Pedro Vicente Maldonado;Urbana;7.162
+Pichincha;Pedro Vicente Maldonado;Rural;8.313
+Pichincha;Puerto Quito;Total Puerto Quito;25.067
+Pichincha;Puerto Quito;Urbana;3.833
+Pichincha;Puerto Quito;Rural;21.234
+Tungurahua;Total Tungurahua;Total Tungurahua;563.532
+Tungurahua;Total Tungurahua;Urbana;225.249
+Tungurahua;Total Tungurahua;Rural;338.283
+Tungurahua;Ambato;Total Ambato;370.664
+Tungurahua;Ambato;Urbana;177.316
+Tungurahua;Ambato;Rural;193.348
+Tungurahua;Baños de Agua Santa;Total Baños de Agua Santa;21.908
+Tungurahua;Baños de Agua Santa;Urbana;14.100
+Tungurahua;Baños de Agua Santa;Rural;7.808
+Tungurahua;Cevallos;Total Cevallos;10.433
+Tungurahua;Cevallos;Urbana;3.754
+Tungurahua;Cevallos;Rural;6.679
+Tungurahua;Mocha;Total Mocha;7.260
+Tungurahua;Mocha;Urbana;1.516
+Tungurahua;Mocha;Rural;5.744
+Tungurahua;Patate;Total Patate;13.879
+Tungurahua;Patate;Urbana;2.514
+Tungurahua;Patate;Rural;11.365
+Tungurahua;Quero;Total Quero;19.084
+Tungurahua;Quero;Urbana;3.269
+Tungurahua;Quero;Rural;15.815
+Tungurahua;San Pedro de Pelileo;Total San Pedro de Pelileo;63.897
+Tungurahua;San Pedro de Pelileo;Urbana;11.403
+Tungurahua;San Pedro de Pelileo;Rural;52.494
+Tungurahua;Santiago de Píllaro;Total Santiago de Píllaro;42.497
+Tungurahua;Santiago de Píllaro;Urbana;9.816
+Tungurahua;Santiago de Píllaro;Rural;32.681
+Tungurahua;Tisaleo;Total Tisaleo;13.910
+Tungurahua;Tisaleo;Urbana;1.561
+Tungurahua;Tisaleo;Rural;12.349
+Zamora Chinchipe;Total Zamora Chinchipe;Total Zamora Chinchipe;110.973
+Zamora Chinchipe;Total Zamora Chinchipe;Urbana;51.424
+Zamora Chinchipe;Total Zamora Chinchipe;Rural;59.549
+Zamora Chinchipe;Zamora;Total Zamora;30.186
+Zamora Chinchipe;Zamora;Urbana;17.584
+Zamora Chinchipe;Zamora;Rural;12.602
+Zamora Chinchipe;Chinchipe;Total Chinchipe;10.337
+Zamora Chinchipe;Chinchipe;Urbana;4.154
+Zamora Chinchipe;Chinchipe;Rural;6.183
+Zamora Chinchipe;Nangaritza;Total Nangaritza;6.429
+Zamora Chinchipe;Nangaritza;Urbana;2.519
+Zamora Chinchipe;Nangaritza;Rural;3.910
+Zamora Chinchipe;Yacuambi;Total Yacuambi;6.391
+Zamora Chinchipe;Yacuambi;Urbana;1.626
+Zamora Chinchipe;Yacuambi;Rural;4.765
+Zamora Chinchipe;Yantzaza;Total Yantzaza;23.370
+Zamora Chinchipe;Yantzaza;Urbana;13.335
+Zamora Chinchipe;Yantzaza;Rural;10.035
+Zamora Chinchipe;El Pangui;Total El Pangui;12.768
+Zamora Chinchipe;El Pangui;Urbana;5.340
+Zamora Chinchipe;El Pangui;Rural;7.428
+Zamora Chinchipe;Centinela del Cóndor;Total Centinela del Cóndor;7.882
+Zamora Chinchipe;Centinela del Cóndor;Urbana;2.930
+Zamora Chinchipe;Centinela del Cóndor;Rural;4.952
+Zamora Chinchipe;Palanda;Total Palanda;8.873
+Zamora Chinchipe;Palanda;Urbana;2.353
+Zamora Chinchipe;Palanda;Rural;6.520
+Zamora Chinchipe;Paquisha;Total Paquisha;4.737
+Zamora Chinchipe;Paquisha;Urbana;1.583
+Zamora Chinchipe;Paquisha;Rural;3.154
+Galápagos;Total Galápagos;Total Galápagos;28.583
+Galápagos;Total Galápagos;Urbana;22.741
+Galápagos;Total Galápagos;Rural;5.842
+Galápagos;San Cristóbal;Total San Cristóbal;8.300
+Galápagos;San Cristóbal;Urbana;7.290
+Galápagos;San Cristóbal;Rural;1.010
+Galápagos;Isabela;Total Isabela;3.050
+Galápagos;Isabela;Urbana;2.755
+Galápagos;Isabela;Rural;295
+Galápagos;Santa Cruz;Total Santa Cruz;17.233
+Galápagos;Santa Cruz;Urbana;12.696
+Galápagos;Santa Cruz;Rural;4.537
+Sucumbíos;Total Sucumbíos;Total Sucumbíos;199.014
+Sucumbíos;Total Sucumbíos;Urbana;81.034
+Sucumbíos;Total Sucumbíos;Rural;117.980
+Sucumbíos;Lago Agrio;Total Lago Agrio;105.044
+Sucumbíos;Lago Agrio;Urbana;55.627
+Sucumbíos;Lago Agrio;Rural;49.417
+Sucumbíos;Gonzalo Pizarro;Total Gonzalo Pizarro;10.356
+Sucumbíos;Gonzalo Pizarro;Urbana;2.083
+Sucumbíos;Gonzalo Pizarro;Rural;8.273
+Sucumbíos;Putumayo;Total Putumayo;9.018
+Sucumbíos;Putumayo;Urbana;2.012
+Sucumbíos;Putumayo;Rural;7.006
+Sucumbíos;Shushufindi;Total Shushufindi;50.826
+Sucumbíos;Shushufindi;Urbana;16.328
+Sucumbíos;Shushufindi;Rural;34.498
+Sucumbíos;Sucumbíos;Total Sucumbíos;3.174
+Sucumbíos;Sucumbíos;Urbana;746
+Sucumbíos;Sucumbíos;Rural;2.428
+Sucumbíos;Cascales;Total Cascales;11.744
+Sucumbíos;Cascales;Urbana;2.510
+Sucumbíos;Cascales;Rural;9.234
+Sucumbíos;Cuyabeno;Total Cuyabeno;8.852
+Sucumbíos;Cuyabeno;Urbana;1.728
+Sucumbíos;Cuyabeno;Rural;7.124
+Orellana;Total Orellana;Total Orellana;182.166
+Orellana;Total Orellana;Urbana;73.338
+Orellana;Total Orellana;Rural;108.828
+Orellana;Francisco de Orellana;Total Francisco de Orellana;95.130
+Orellana;Francisco de Orellana;Urbana;51.281
+Orellana;Francisco de Orellana;Rural;43.849
+Orellana;Aguarico;Total Aguarico;6.872
+Orellana;Aguarico;Urbana;657
+Orellana;Aguarico;Rural;6.215
+Orellana;La Joya de los Sachas;Total La Joya de los Sachas;52.444
+Orellana;La Joya de los Sachas;Urbana;16.023
+Orellana;La Joya de los Sachas;Rural;36.421
+Orellana;Loreto;Total Loreto;27.720
+Orellana;Loreto;Urbana;5.377
+Orellana;Loreto;Rural;22.343
+Santo Domingo de los Tsáchilas;Total Santo Domingo de los Tsáchilas;Total Santo Domingo de los Tsáchilas;492.969
+Santo Domingo de los Tsáchilas;Total Santo Domingo de los Tsáchilas;Urbana;370.300
+Santo Domingo de los Tsáchilas;Total Santo Domingo de los Tsáchilas;Rural;122.669
+Santo Domingo de los Tsáchilas;Santo Domingo;Total Santo Domingo;441.583
+Santo Domingo de los Tsáchilas;Santo Domingo;Urbana;334.826
+Santo Domingo de los Tsáchilas;Santo Domingo;Rural;106.757
+Santo Domingo de los Tsáchilas;La Concordia;Total La Concordia;51.386
+Santo Domingo de los Tsáchilas;La Concordia;Urbana;35.474
+Santo Domingo de los Tsáchilas;La Concordia;Rural;15.912
+Santa Elena;Total Santa Elena;Total Santa Elena;385.735
+Santa Elena;Total Santa Elena;Urbana;201.785
+Santa Elena;Total Santa Elena;Rural;183.950
+Santa Elena;Santa Elena;Total Santa Elena;186.687
+Santa Elena;Santa Elena;Urbana;54.565
+Santa Elena;Santa Elena;Rural;132.122
+Santa Elena;La Libertad;Total La Libertad;112.247
+Santa Elena;La Libertad;Urbana;112.154
+Santa Elena;La Libertad;Rural;93
+Santa Elena;Salinas;Total Salinas;86.801
+Santa Elena;Salinas;Urbana;35.066
+Santa Elena;Salinas;Rural;51.735
