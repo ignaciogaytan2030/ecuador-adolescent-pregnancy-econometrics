@@ -19,7 +19,7 @@ Where for each canton $c$:
 * `YouthDensity`: The ratio of the population aged 15–29 relative to the canton's total geographic area.
 * `PovertyNBI`: The percentage of the population living with Unmet Basic Needs (Necesidades Básicas Insatisfechas).
 * `Indigenous`: The percentage of the population self-identifying as Indigenous.
-* `\varepsilon_c`: The stochastic error term.
+* `Error Term (ε)`: The stochastic error term.
 
 ## Repository Structure
 
