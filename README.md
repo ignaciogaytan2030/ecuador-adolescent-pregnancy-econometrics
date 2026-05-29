@@ -35,3 +35,6 @@ Clone this repository:
 Bash
 git clone [https://github.com/ignaciogaytan2030/ecuador-adolescent-pregnancy-econometrics.git](https://github.com/ignaciogaytan2030/ecuador-adolescent-pregnancy-econometrics.git)
 Run the notebooks inside the notebooks/ directory sequentially using Google Colab or a local Jupyter environment.
+
+
+---
