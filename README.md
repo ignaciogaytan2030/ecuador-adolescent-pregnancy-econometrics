@@ -27,14 +27,14 @@ Where for each canton $c$:
 ├── data/              # Cleaned cantonal-level CSV data files
 ├── notebooks/         # Documented Colab notebooks for ETL and estimation
 └── README.md          # Project documentation and research overview
-Setup and Reproducibility
+```
+
+## Setup and Reproducibility
 To replicate the environment and rerun the econometric models:
 
-Clone this repository:
-
-Bash
+1. Clone this repository:
+```bash
 git clone [https://github.com/ignaciogaytan2030/ecuador-adolescent-pregnancy-econometrics.git](https://github.com/ignaciogaytan2030/ecuador-adolescent-pregnancy-econometrics.git)
-Run the notebooks inside the notebooks/ directory sequentially using Google Colab or a local Jupyter environment.
+```
 
-
----
+2. Run the notebooks inside the `notebooks/` directory sequentially using Google Colab or a local Jupyter environment.
